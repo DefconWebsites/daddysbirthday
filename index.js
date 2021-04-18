@@ -39,7 +39,7 @@ image_array = [
     'Well done, Dad! Because of you, I turned out awesome.',
     'Even when you don’t say a word, I learn a lot of things from you.',
     'You are a leader like no other. That’s why our family is strong.',
-    'You are worth more than a hundred school teachers.',
+    'I have learnt more from you than i have from school.',
     'You are a truly hardworking guy.',
     'You’re the funniest man I know. Thanks for all the laughs!',
     'No matter the circumstances, I know I can always count on you.',
